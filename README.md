@@ -12,13 +12,6 @@
 
 - 📫 Reach out to me at **pushpalatharn2002@gmail.com**
 
-<h3 align="left">GitHub Stats:</h3>
-<div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpa1215&show_icons=true&locale=en" alt="pushpa1215" /></p>
-<br>
-</div>
-<br>
 <h3 align="left">Languages and Tools:</h3>
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
