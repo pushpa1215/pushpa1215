@@ -22,5 +22,3 @@
 <h3 align="left">Languages and Tools:</h3>
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/pushpa1215"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pushpa1215" /></a></p><br><br>
