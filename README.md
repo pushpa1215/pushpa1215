@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Pushpalatha R N</h1>
+<h3 align="center">A passionate developer from India </h3>
 
-<!--
-**pushpa1215/pushpa1215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently been learning **python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 All of my projects are available on [GitHub](https://github.com/pushpa1215)
+
+- 💬 Ask me about **Programming**
+
+- 📫 Reach out to me at **pushpalatharn2002@gmail.com**
+
+<h3 align="left">GitHub Stats:</h3>
+<div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpa1215&show_icons=true&locale=en" alt="pushpa1215" /></p>
+<br>
+</div>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/pushpa1215"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pushpa1215" /></a></p><br><br>
